@@ -39,15 +39,14 @@ I have worked on various full-stack applications, including:
 - **Role-based Authentication Systems** with JWT tokens in Angular and .NET Core
 - **E-commerce platforms**, **News apps**, and **Dynamic Reporting Systems**
 
-You can explore some of my projects on my [GitHub repositories](https://github.com/yourusername).
+You can explore some of my projects on my [GitHub repositories](https://github.com/gagzzieee).
 
 ---
 
 ### 🌐 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Portfolio: [Your Website/Portfolio](https://yourwebsite.com)
-- Email: [Your Email Address](mailto:youremail@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/gagandeep4551)
+- Email: [Your Email Address](gdeepsingh1560@gmail.com)
 
 ---
 
