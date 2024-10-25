@@ -17,8 +17,8 @@ I am a passionate **Full Stack Developer** with a strong focus on building scala
 
 - **Backend**: .NET Core Web API, ASP.NET MVC, Entity Framework, SQL Server
 - **Frontend**: Angular, JavaScript (ES6+), HTML5, CSS3, Bootstrap
-- **Version Control**: Git, GitHub
-- **Other Tools**: Visual Studio, Visual Studio Code, Postman, Fiddler, Swagger
+- **Version Control**: Git, GitHub,TFS
+- **Other Tools**: Visual Studio, Visual Studio Code, Postman, Swagger
 
 ---
 
