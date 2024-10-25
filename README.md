@@ -45,8 +45,8 @@ You can explore some of my projects on my [GitHub repositories](https://github.c
 
 ### 🌐 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gagandeep-singh-9816bb1b9/)
-- Email: [Your Email Address](gdeepsingh1560@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/gagandeep-singh-9816bb1b9/)
+- Email: [Email Address](gdeepsingh1560@gmail.com)
 
 ---
 
