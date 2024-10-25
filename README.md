@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Gagandeep Singh
 
-I am a passionate **Full Stack Developer** with a strong focus on building scalable and efficient web applications. My expertise lies in both frontend and backend development using a range of technologies including **.NET Core Web API**, **Angular**, **HTML**, **CSS**, and **JavaScript**.
+I am a passionate **Full Stack Developer** with a strong focus on building scalable and efficient web applications. My expertise lies in both frontend and backend development using a range of technologies including **.NET Core Web API**, **.NET MVC**,**Angular**, **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
